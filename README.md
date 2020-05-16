@@ -1,0 +1,2 @@
+# Effects-of-Snowfall-and-Rainfall-on-Temperature
+This project aims to show the effects of snowfall and rainfall on temperature by plotting the average temperatures and the snowfall and rainfall data for two weather stations in Ann Arbor University of Michigan, MI and NY City Central Park, NY for a period of 20 years ranging from 2001-01-01 to 2020-01-01 using data provided by https://www.ncdc.noaa.gov/
